@@ -1,0 +1,26 @@
+[
+{
+"titel": "Star Wars",
+"director": "George Lucas",
+"Cost": "27.5",
+"genre": "Fanstasy"
+},
+{
+"titel": "Labyrynth",
+"director": "Jim Henson",
+"Cost": "14.2",
+"genre": "Fanstasy"
+},
+{
+"titel": "Aliens",
+"director": "James Cameron",
+"Cost": "20.2",
+"genre": "Action"
+},
+{
+"titel": "Die Hard",
+"director": "McTiernana",
+"Cost": "7.2",
+"genre": "Action"
+}
+]

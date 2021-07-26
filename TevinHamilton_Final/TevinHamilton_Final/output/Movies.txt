@@ -1,0 +1,9 @@
+Bob's Movie Store
+
+[Fantasy]
+Star Wars,George Lucas,27.5
+Labyrynth,Jim Henson,14.2
+
+[Action]
+Aliens,James Cameron,20.2
+Die Hard,McTiernana,7.2
